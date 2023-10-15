@@ -1,0 +1,51 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    background-color: #111; 
+    color: #b2b2b2;
+}
+
+header {
+    background-color: #111; 
+    padding: 20px;
+}
+
+header img {
+    max-width: 100px; 
+}
+
+h1 {
+    color: #febe01; 
+}
+
+h2 {
+    color: #febe01; 
+}
+
+.car {
+    background-color: #111; 
+    color: #b2b2b2; 
+    padding: 20px;
+    border-radius: 50%; 
+    margin: 10px;
+}
+
+.car-image {
+    background-color: #000; 
+    padding: 10px;
+    border-radius: 50%; 
+}
+
+button {
+    background-color: #febe01; 
+    color: #332200; 
+    border: none;
+    border-radius: 4px; 
+    padding: 10px 20px;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #332200; 
+    color: #febe01; 
+}
